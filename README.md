@@ -1,2 +1,2 @@
 # useanotherapp.com
-stop using spyware
+An informative website that explains why you should be using a whatsapp alternative.
